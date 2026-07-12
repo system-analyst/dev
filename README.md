@@ -1,4 +1,5 @@
 # "System-Analyst" releases - hash verification
+- 	**system-analyst-2.10.4-win32.zip** --> SHA256 d37148955f0d1039c9d79c46823f32e405c927a803dacbf3185b4b085c5d1787
 - 	**system-analyst-2.10.3-win32.zip** --> SHA256 8f9f94d6905f7fce9efff503b7d9ec80e103bbec2f41d842832772707d19c505
 - 	**system-analyst-2.10.2-win32.zip** --> SHA256 1d133668b40afd8e145fb3fca9ee7b2ee7d05bb47d29458a3be400a10b309f16
 # "AGATE Simulators" releases - hash verification
